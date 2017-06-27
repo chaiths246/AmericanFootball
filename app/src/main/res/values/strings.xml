@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">American Football</string>
+    <string name="TouchDown">Touch Down</string>
+    <string name="ExtraPoint">Extra Point</string>
+    <string name="kick">Kick</string>
+    <string name="fieldGoal">Field Goal</string>
+    <string name="safety">Safety</string>
+    <string name="TouchDown2">Touch Down2</string>
+</resources>
